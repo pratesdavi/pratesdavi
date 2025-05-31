@@ -17,6 +17,7 @@ Acredito que dados bem cuidados são como bons ingredientes em uma receita: quan
 - **Power Query** (tratamento e transformação de dados)
 - **Power BI** (visualização e dashboards – em desenvolvimento)
 - **Excel** (apoio à análise de dados)
+- **Python** (aprendendo)
 - Validação e padronização de bases de dados
 
 ## 📫 Como me encontrar
