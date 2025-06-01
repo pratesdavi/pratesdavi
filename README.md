@@ -28,7 +28,3 @@ Acredito que dados bem cuidados são como bons ingredientes em uma receita: quan
 
 > "Onde há dados de qualidade, há confiança nas decisões."  
 > — Thomas C. Redman (“The Data Doc”)
-
-----------
-
-https://github.com/davi-prates/portfolio/raw/output/github-snake-dark.svg?palette=github-dark
