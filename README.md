@@ -1,10 +1,10 @@
-# Olá, sou Davi Prates! 👋
+# Olá, sou o Davi Prates! 👋
 
 Atuo na área de dados, acumulando experiência em análise, validação e tratamento de informações para assegurar que estejam sempre padronizadas, íntegras e consistentes. Integro a equipe de Business Intelligence (BI) de uma agência de trade marketing, contribuindo diretamente para a preparação de dados que sustentam decisões estratégicas e resultados relevantes.
 
 Acredito que dados bem cuidados são como bons ingredientes em uma receita: quando a matéria-prima é de qualidade, o resultado final alcança todo o seu potencial. Por esse motivo, exerço um papel fundamental na cadeia de trabalho, pois o sucesso das análises e relatórios está diretamente ligado à confiabilidade e organização dos dados sob minha responsabilidade.
 
-## 💡 Sobre meu trabalho
+## 💡 Meu trabalho
 
 - Especialista em SQL para manipulação, extração e modelagem de dados em diferentes fontes.
 - Experiência em ferramentas de análise e visualização de dados, como Excel, Power Query e Power BI (em constante aprendizado).
@@ -20,13 +20,13 @@ Acredito que dados bem cuidados são como bons ingredientes em uma receita: quan
 - **Python** (aprendendo)
 - Validação e padronização de bases de dados
 
-- <img 
+<img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="SQL"
+    title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>" 
 />
 <img 
     align="left" 
