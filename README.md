@@ -124,6 +124,7 @@ Acredito que dados bem cuidados são como bons ingredientes em uma receita: quan
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+</br>
 
 ## 📫 Como me encontrar
 
