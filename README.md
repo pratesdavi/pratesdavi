@@ -34,7 +34,7 @@ Acredito que dados bem cuidados são como bons ingredientes em uma receita: quan
     title="POSTGRSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img 
     align="left" 
@@ -42,7 +42,7 @@ Acredito que dados bem cuidados são como bons ingredientes em uma receita: quan
     title="MYSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />          
 <img 
     align="left" 
