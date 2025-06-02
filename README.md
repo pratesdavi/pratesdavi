@@ -1,4 +1,4 @@
-# Olá, sou o Davi Prates! 👋
+# Olá, sou o Davi Prates! 🧑‍💻
 
 Atuo na área de dados, acumulando experiência em análise, validação e tratamento de informações para assegurar que estejam sempre padronizadas, íntegras e consistentes. Integro a equipe de Business Intelligence (BI) de uma agência de trade marketing, contribuindo diretamente para a preparação de dados que sustentam decisões estratégicas e resultados relevantes.
 
@@ -11,7 +11,7 @@ Acredito que dados bem cuidados são como bons ingredientes em uma receita: quan
 - Foco absoluto na padronização, validação e tratamento de dados para assegurar qualidade e confiança nas informações.
 - Responsável por estruturar e organizar bancos de dados, otimizando processos internos e facilitando o acesso às informações para toda a equipe.
 
-## 🛠️ Habilidades
+## Habilidades
 
 - **SQL** (consultas, manipulação e modelagem de dados)
 - **Power Query** (tratamento e transformação de dados)
