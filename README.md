@@ -76,7 +76,6 @@ Acredito que dados bem cuidados são como bons ingredientes em uma receita: quan
 
 - [LinkedIn](https://www.linkedin.com/in/davi-prates/)
 
-
 ---
 
 > "Onde há dados de qualidade, há confiança nas decisões."  
