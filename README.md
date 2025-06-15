@@ -76,6 +76,19 @@ Acredito que dados bem cuidados são como bons ingredientes em uma receita: quan
 
 - [LinkedIn](https://www.linkedin.com/in/davi-prates/)
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="150" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=pratesdavi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+
+</p>
+
 ---
 
 > "Onde há dados de qualidade, há confiança nas decisões."  
