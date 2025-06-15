@@ -17,13 +17,13 @@ Responsável por estruturar e organizar bancos de dados, otimizando processos e 
 
 ## 🧠 Minhas habilidades técnicas
 
-• **SQL** → consultas, modelagem e manipulação de dados;
+• **SQL** → consultas, modelagem e manipulação de dados
 
-• **Power Query** → transformação de dados; 
+• **Power Query** → transformação de dados
 
-• **Power BI** → dashboards e visualizações (em desenvolvimento); 
+• **Power BI** → dashboards e visualizações (em desenvolvimento)
 
-• **Excel** → análise de dados e automações; 
+• **Excel** → análise de dados e automações
 
 • **Python** → em desenvolvimento
 
