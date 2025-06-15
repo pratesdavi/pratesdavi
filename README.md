@@ -4,20 +4,24 @@ Atuando na área de Dados em Business Intelligence, trabalho garantindo qualidad
 
 Além da experiência com dados, também tenho vivência prática em desenvolvimento e administração de banco de dados, o que fortalece minha atuação técnica e estratégica. Acredito que decisões sólidas começam com dados bem cuidados. Meu papel é garantir essa base — com metodologia, clareza e precisão.
 
-## 💡 Meu trabalho
 
-- Especialista em SQL para manipulação, extração e modelagem de dados em diferentes fontes.
-- Experiência em ferramentas de análise e visualização de dados, como Excel, Power Query e Power BI (em constante aprendizado).
-- Foco absoluto na padronização, validação e tratamento de dados para assegurar qualidade e confiança nas informações.
-- Responsável por estruturar e organizar bancos de dados, otimizando processos internos e facilitando o acesso às informações para toda a equipe.
+## 💡 O que eu faço
 
-## Habilidades
+Especialista em SQL para manipulação, extração e modelagem de dados de diferentes fontes.
 
-- **SQL** (consultas, manipulação e modelagem de dados)
-- **Power Query** (tratamento e transformação de dados)
-- **Power BI** (visualização e dashboards – em desenvolvimento)
-- **Excel** (
-- **Python** (em desenvolvimento)
+Atuação com ferramentas de análise e visualização, como Power BI, Power Query e Excel (em constante evolução).
+
+Foco total em padronização, validação e tratamento de dados, garantindo qualidade e confiança para tomadas de decisão.
+
+Responsável por estruturar e organizar bancos de dados, otimizando processos e facilitando o acesso à informação para toda a equipe.
+
+## 🧠 Minhas habilidades técnicas
+
+• **SQL** → consultas, modelagem e manipulação de dados
+• **Power Query** → transformação de dados
+• **Power BI** → dashboards e visualizações (em desenvolvimento)
+• **Excel** → análise de dados e automações
+• **Python** → em desenvolvimento
 
 _________________________________
 <img 
