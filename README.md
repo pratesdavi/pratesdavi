@@ -1,8 +1,8 @@
 # Olá, sou o Davi Prates! 🧑‍💻
 
-Atuo na área de dados, acumulando experiência em análise, validação e tratamento de informações para assegurar que estejam sempre padronizadas, íntegras e consistentes. Integro a equipe de Business Intelligence (BI) de uma agência de trade marketing, contribuindo diretamente para a preparação de dados que sustentam decisões estratégicas e resultados relevantes.
+Atuando na área de Dados em Business Intelligence, trabalho garantindo qualidade, integridade e padronização de informações críticas para decisões estratégicas. No Atuo na área de Business Intelligence com foco em qualidade, integridade e padronização de dados estratégicos. No núcleo de BI de uma agência de Trade Marketing, sou responsável por tratar, validar e organizar grandes volumes de dados — garantindo que análises e relatórios partam de fontes confiáveis e consistentes.
 
-Acredito que dados bem cuidados são como bons ingredientes em uma receita: quando a matéria-prima é de qualidade, o resultado final alcança todo o seu potencial. Por esse motivo, exerço um papel fundamental na cadeia de trabalho, pois o sucesso das análises e relatórios está diretamente ligado à confiabilidade e organização dos dados sob minha responsabilidade.
+Além da experiência com dados, também tenho vivência prática em desenvolvimento e administração de banco de dados, o que fortalece minha atuação técnica e estratégica. Acredito que decisões sólidas começam com dados bem cuidados. Meu papel é garantir essa base — com metodologia, clareza e precisão.
 
 ## 💡 Meu trabalho
 
@@ -16,10 +16,10 @@ Acredito que dados bem cuidados são como bons ingredientes em uma receita: quan
 - **SQL** (consultas, manipulação e modelagem de dados)
 - **Power Query** (tratamento e transformação de dados)
 - **Power BI** (visualização e dashboards – em desenvolvimento)
-- **Excel** (apoio à análise de dados)
-- **Python** (aprendendo)
-- Validação e padronização de bases de dados
+- **Excel** (
+- **Python** (em desenvolvimento)
 
+_________________________________
 <img 
     align="left" 
     alt="SQL"
@@ -68,14 +68,15 @@ Acredito que dados bem cuidados são como bons ingredientes em uma receita: quan
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />          
-
 </br>
 </br>
 
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/davi-prates/)
+</br>
 
+## 📊 Stats
 <p>
   <img 
     align="left" 
@@ -89,7 +90,6 @@ Acredito que dados bem cuidados são como bons ingredientes em uma receita: quan
 
 </p>
 
----
 
 > "Onde há dados de qualidade, há confiança nas decisões."  
 > — Thomas C. Redman (“The Data Doc”)
