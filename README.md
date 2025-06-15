@@ -85,7 +85,7 @@ Acredito que dados bem cuidados são como bons ingredientes em uma receita: quan
     src="https://github-readme-stats.vercel.app/api?username=pratesdavi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratesdavi&langs_count=8)
 
 </p>
 
