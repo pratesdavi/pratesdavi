@@ -7,13 +7,13 @@ Além da experiência com dados, também tenho vivência prática em desenvolvim
 
 ## 💡 O que eu faço e minhas habilidades
 
-🗃️ **SQL** | Especialista em SQL para manipulação, extração e modelagem de dados de diferentes fontes.
+**SQL** 🗃️ | Especialista em SQL para manipulação, extração e modelagem de dados de diferentes fontes.
 
-📊 **EXCEL, POWER QUERY, POWER BI** | Atuação com ferramentas de análise e visualização, como Power BI, Power Query e Excel (em constante evolução).
+**EXCEL, POWER QUERY, POWER BI** 📊 | Atuação com ferramentas de análise e visualização, como Power BI, Power Query e Excel (em constante evolução).
 
-🐍 **PYTHON** (em desenvolvimento) | Padronização, validação e tratamento de dados, garantindo qualidade e confiança para tomadas de decisão.
+**PYTHON** (em desenvolvimento) 🐍 | Padronização, validação e tratamento de dados, garantindo qualidade e confiança para tomadas de decisão.
 
-🛠️ **BANCO DE DADOS** | Responsável por estruturar e organizar bancos de dados, otimizando processos e facilitando o acesso à informação para toda a equipe.
+**BANCO DE DADOS** 🛠️ | Responsável por estruturar e organizar bancos de dados, otimizando processos e facilitando o acesso à informação para toda a equipe.
 
 _________________________________
 <img 
