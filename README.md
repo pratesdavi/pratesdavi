@@ -67,17 +67,11 @@ _________________________________
 </br>
 </br>
 
-## 📫 Como me encontrar
+## 📫 REDES SOCIAIS
 
 - [LinkedIn](https://www.linkedin.com/in/davi-prates/)
 </br>
 
-## 📊 Stats
+## 📊
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratesdavi&langs_count=8)
-
-</p>
-
-
-> "Onde há dados de qualidade, há confiança nas decisões."  
-> — Thomas C. Redman (“The Data Doc”)
