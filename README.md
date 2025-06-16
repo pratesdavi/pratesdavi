@@ -69,7 +69,7 @@ _________________________________
 
 ## 📫 REDES SOCIAIS
 
-- [LinkedIn](https://www.linkedin.com/in/davi-prates/)
+[LinkedIn](https://www.linkedin.com/in/davi-prates/)
 </br>
 
 ## 📊
