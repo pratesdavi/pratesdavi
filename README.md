@@ -11,8 +11,6 @@ Além da experiência com dados, também tenho vivência prática em desenvolvim
 
 **EXCEL, POWER QUERY, POWER BI** 📊 | Atuação com ferramentas de análise e visualização, como Power BI, Power Query e Excel (em constante evolução).
 
-**PYTHON** (em desenvolvimento) 🐍 | Padronização, validação e tratamento de dados, garantindo qualidade e confiança para tomadas de decisão.
-
 **BANCO DE DADOS** 🛠️ | Responsável por estruturar e organizar bancos de dados, otimizando processos e facilitando o acesso à informação para toda a equipe.
 
 _________________________________
